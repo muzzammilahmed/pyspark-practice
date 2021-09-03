@@ -1,0 +1,101 @@
+customer_id,name,address,website,credit_limit
+1,Megan Hancock,"P.O. Box 735, 1682 Erat Avenue",Aliquam@risusa.ca,528
+2,Ali K. Miller,"P.O. Box 844, 4546 Leo, Av.",Aliquam.ornare.libero@utaliquamiaculis.net,155
+3,Cleo E. Taylor,Ap #882-3355 Tellus. Av.,mauris.sapien@morbi.co.uk,373
+4,Abel C. Palmer,"P.O. Box 654, 1359 Integer Road",sed.pede@pellentesqueeget.edu,875
+5,Heidi K. Fitzgerald,"260-2189 In, St.",id.ante@turpisIn.ca,347
+6,Palmer Page,"P.O. Box 123, 715 Lorem, Av.",venenatis.a.magna@Mauris.co.uk,551
+7,Kadeem M. Rivera,3316 Malesuada Rd.,pede.Praesent@leo.net,320
+8,Cassidy Hudson,"Ap #494-739 Vitae, Rd.",ad.litora.torquent@nunc.com,585
+9,Katell Cohen,"Ap #522-9602 Tincidunt, St.",quam.quis.diam@penatibus.com,320
+10,Rafael Q. Chavez,Ap #545-9669 Arcu Avenue,dolor.quam@sagittis.ca,537
+11,Kristen H. Terry,"P.O. Box 668, 4950 At, St.",purus@imperdietornareIn.ca,748
+12,Kadeem Q. Fields,"P.O. Box 958, 2942 Senectus St.",cubilia.Curae.Phasellus@feugiatnon.net,625
+13,Giacomo U. Bowers,3723 Arcu St.,scelerisque@imperdiet.org,538
+14,Aquila E. Simon,Ap #853-4767 Ligula Rd.,Nullam@MorbivehiculaPellentesque.org,415
+15,Kimberly E. Castaneda,"555-9087 Lorem, Avenue",eu@disparturientmontes.org,906
+16,Wang Orr,Ap #965-7862 Et St.,ornare.lectus.ante@ultricies.net,778
+17,Lucius B. Maddox,7513 Donec St.,orci@In.co.uk,135
+18,Griffith Meadows,138 Mollis Rd.,ut.sem@ipsumportaelit.co.uk,148
+19,Upton May,261-7283 Nunc St.,ante.blandit.viverra@vitaeorci.com,811
+20,Yoko Shields,4241 Magnis Ave,dictum.mi.ac@risusDonec.com,767
+21,Bethany B. Church,"P.O. Box 849, 1126 Nibh Street",commodo.auctor.velit@aliquetlobortis.org,757
+22,Rylee O. Oconnor,1229 Mi Road,orci.tincidunt@velitAliquam.org,562
+23,Amal Riggs,8604 Fusce Rd.,sed@Ut.co.uk,957
+24,Hakeem P. Howard,1695 Dui Rd.,Sed.molestie.Sed@Duismienim.edu,432
+25,Colorado Merritt,Ap #219-536 Ligula Road,Nullam.scelerisque.neque@gravida.co.uk,372
+26,Nathaniel N. Cain,"P.O. Box 914, 1352 Quisque Av.",Nullam.velit@gravidasitamet.edu,373
+27,Ulric Beard,705-3009 Tempor Rd.,Nunc.sollicitudin@habitant.com,894
+28,Reese N. Daniels,"Ap #802-4973 Nec, St.",id.enim@volutpat.com,457
+29,Elmo York,Ap #185-6724 Auctor Avenue,imperdiet.ullamcorper@dolordolor.net,979
+30,Mohammad B. Kerr,8593 Tincidunt Road,nisi@semperet.net,118
+31,Denton Davis,811-8687 Accumsan Avenue,magnis.dis@consequatauctor.org,875
+32,Merrill Pope,229-7993 Eu Rd.,ridiculus.mus@fermentummetus.ca,231
+33,Fletcher S. Stevens,Ap #911-3989 Phasellus Rd.,nibh.Phasellus@leoCras.edu,300
+34,Aileen Todd,"P.O. Box 742, 2580 In Av.",euismod@tempor.net,757
+35,Maggy P. Dickson,"2692 Ultrices, Street",justo@noncursusnon.co.uk,495
+36,Abigail Z. Rose,Ap #309-1318 Proin St.,Nam.porttitor.scelerisque@Cras.edu,633
+37,Colorado Q. Randolph,245-3250 Sit Ave,senectus.et.netus@massaSuspendisseeleifend.edu,687
+38,Fitzgerald N. Whitehead,"P.O. Box 951, 7300 Cursus Avenue",lorem.semper@disparturient.co.uk,635
+39,Chelsea H. Morse,"P.O. Box 476, 421 Sed Ave",aliquet.metus@tinciduntorciquis.ca,247
+40,Rigel Santos,"P.O. Box 518, 9531 Bibendum Rd.",rhoncus@ligulaelit.com,766
+41,Raphael Ellis,"P.O. Box 559, 5944 Ipsum Avenue",auctor.quis.tristique@pede.com,914
+42,Gillian Conner,"P.O. Box 547, 4237 Tellus. Road",ut.cursus@dictumultriciesligula.edu,348
+43,Channing Anderson,Ap #939-3954 Ligula. Street,nulla@bibendum.com,865
+44,Gareth D. White,"877-1757 Et, St.",Etiam.bibendum.fermentum@nasceturridiculus.com,692
+45,Lavinia N. Hansen,294-6440 At Road,ipsum@Suspendissecommodo.net,742
+46,Casey R. Bradley,"265-8930 Lorem, St.",aliquam.eros.turpis@adipiscinglacus.net,531
+47,Kylee A. Cummings,"P.O. Box 462, 3198 Facilisis Road",Donec.est.Nunc@ultricessit.ca,413
+48,Dorian U. Ramirez,530-8448 Pulvinar Road,ultrices.iaculis.odio@consectetuer.com,452
+49,Quamar O. Todd,"P.O. Box 418, 7034 Nec St.",consectetuer.euismod@lectusante.co.uk,241
+50,Cadman Bowman,5260 Odio. St.,et@AliquamnislNulla.net,272
+51,Ferris Lowe,7226 Ultrices Av.,ligula.eu.enim@sed.com,510
+52,Tyrone Matthews,585-4605 Mus. Rd.,Nunc.mauris@a.edu,577
+53,Damon F. Gould,"1586 Consequat, Rd.",est.vitae.sodales@cursusinhendrerit.ca,717
+54,Barbara Gay,"3968 Tellus, Av.",Aliquam.ultrices.iaculis@condimentumegetvolutpat.edu,634
+55,Nolan Y. Roman,Ap #652-9413 Dolor Road,amet.ante@doloregestasrhoncus.org,409
+56,Myles Clarke,Ap #478-4349 Feugiat St.,Quisque.porttitor@mauris.org,402
+57,Addison J. Wagner,"P.O. Box 177, 9801 Lobortis Avenue",a@cursusluctus.com,980
+58,Leonard G. Haley,"P.O. Box 457, 2013 Nec Street",imperdiet.nec@molestie.co.uk,984
+59,Deanna A. Vasquez,"P.O. Box 885, 9207 Sed St.",Morbi.quis@mollisduiin.com,845
+60,Tobias Robles,"253-192 Purus, Ave",auctor.ullamcorper@hendreritnequeIn.co.uk,194
+61,Illiana Fields,8703 Tellus Avenue,Proin@convallisantelectus.net,871
+62,Anne K. Rollins,423 Eu St.,Phasellus.libero@ipsumnunc.ca,762
+63,Thor Poole,561 Lectus St.,ullamcorper@tortor.edu,499
+64,Burke P. Haney,845-6499 Nam St.,lacinia.vitae.sodales@feugiatnec.edu,317
+65,Colin Blair,386-3329 Mattis Rd.,felis.adipiscing.fringilla@afelisullamcorper.co.uk,457
+66,Francis Cameron,Ap #234-7166 Vestibulum St.,pulvinar@Proinsedturpis.net,511
+67,Lucy Dean,259-1778 Lectus Rd.,mauris@scelerisque.ca,635
+68,Timothy Henson,Ap #989-2537 Et Road,Nunc.ut.erat@maurisutmi.ca,756
+69,Silas G. Henson,"P.O. Box 349, 5194 Curae; Street",Duis@erat.net,870
+70,Madison Blevins,"P.O. Box 354, 1581 Cras St.",neque.venenatis.lacus@tellus.ca,630
+71,Alisa Reilly,Ap #891-9187 Dui. St.,sem.consequat@aliquetlobortisnisi.edu,989
+72,Jorden H. Howe,6824 Aliquet. St.,tincidunt@uteratSed.co.uk,653
+73,Harlan T. Wilcox,Ap #130-8680 Est St.,ut.molestie.in@non.edu,221
+74,Jayme B. Elliott,Ap #628-9820 Iaculis Av.,non.lorem@etultricesposuere.edu,800
+75,Shaeleigh Vaughn,"8680 In, Avenue",ullamcorper.Duis.cursus@Ut.ca,867
+76,Zoe S. Beach,6180 Faucibus Rd.,in@tellusimperdiet.co.uk,264
+77,Harriet Wilkerson,3877 Ut Road,vestibulum@luctus.co.uk,159
+78,Stephen F. Bryan,Ap #673-9299 Eleifend Rd.,quam.dignissim@primisinfaucibus.org,396
+79,Dai P. Walker,"P.O. Box 751, 4470 Etiam Avenue",felis.ullamcorper.viverra@lacuspede.edu,186
+80,Sydney N. Howell,"P.O. Box 394, 4786 Suspendisse Street",nisl@euismodenim.org,364
+81,Noble Q. Love,696-2022 Lobortis Rd.,Vivamus.euismod.urna@Morbi.com,360
+82,Ebony Q. Murray,7737 Suspendisse Ave,nisi.nibh@arcuVivamus.edu,458
+83,Leslie Morse,"P.O. Box 105, 8903 Fringilla Rd.",mauris.Morbi.non@antedictum.com,354
+84,Ulla F. Lopez,"P.O. Box 809, 4335 In St.",convallis.ligula@infelis.org,558
+85,Patrick P. Kirby,"P.O. Box 214, 9684 Maecenas Avenue",purus@odio.com,480
+86,Melinda F. Brennan,5939 Ullamcorper Av.,Curae.Donec.tincidunt@nullaIn.co.uk,389
+87,Quon Whitney,687-387 Turpis. Rd.,risus.Nulla.eget@orciPhasellus.org,291
+88,Dahlia Lambert,832 Vivamus Avenue,laoreet.ipsum@Integer.edu,306
+89,Justina Logan,6291 Tincidunt Street,aliquet@orciDonecnibh.com,584
+90,Florence Cardenas,"358-9993 Vitae, St.",venenatis@mi.net,903
+91,Wyatt L. Haley,196-3773 Dolor Av.,varius@eliteratvitae.edu,365
+92,Whoopi X. Kane,Ap #136-5629 Neque Ave,sed@rutrumFuscedolor.edu,591
+93,Cain I. Jenkins,"Ap #330-2911 Purus, Rd.",a.ultricies.adipiscing@fermentum.ca,623
+94,Amir Olson,"P.O. Box 398, 7573 Hendrerit. St.",non.sapien.molestie@eu.ca,231
+95,Henry Boyle,"P.O. Box 212, 8182 Nec Rd.",In@in.org,435
+96,Slade Hall,"P.O. Box 656, 7008 Donec Ave",et.magna.Praesent@dui.edu,247
+97,Christine Jacobson,348-9302 Diam Rd.,lorem.luctus@velconvallisin.co.uk,418
+98,Echo Z. Hewitt,"P.O. Box 860, 1744 Vestibulum, Road",et.malesuada.fames@ridiculusmus.net,578
+99,Cade K. Hart,"Ap #944-1229 Rutrum, Ave",dolor@duilectus.edu,858
+100,Pamela Rush,"P.O. Box 849, 8020 Lobortis. Road",pellentesque.tellus@Etiamvestibulummassa.ca,548
